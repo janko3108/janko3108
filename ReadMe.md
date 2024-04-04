@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on buildiong my own portfolio.<br>🌱 I’m currently learning C# and .NET framework.<br>💬 Ask me about my projects :)<br>⚡ Fun fact - I'm a part of the Croatian fencing national team.
+🔭 I’m currently working on building my own portfolio.<br>🌱 I’m currently learning C# and .NET framework.<br>💬 Ask me about my projects :)<br>⚡ Fun fact - I'm a part of the Croatian fencing national team.
 
 
 ## 🌐 Socials:
